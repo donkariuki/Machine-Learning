@@ -1,2 +1,2 @@
 # Machine-Learning
-intoducrion to machine learning
+intoduction to machine learning
